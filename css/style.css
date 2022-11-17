@@ -47,7 +47,7 @@ main {
     flex-wrap: wrap;
 }
 .box {
-    background-color: red;
+    background-color: white;
     height: 96px;
     width: 10%;
     display: flex;
@@ -59,7 +59,12 @@ main {
 .box.clicked {
     background-color: green;
 }
-
+.red {
+    background-color: red;
+}
+.green {
+    background-color: lightgreen;
+}
 
 
 footer {
